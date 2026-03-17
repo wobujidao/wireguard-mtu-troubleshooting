@@ -862,6 +862,18 @@ sequenceDiagram
 
 ---
 
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#wobujidao/wireguard-mtu-troubleshooting&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wobujidao/wireguard-mtu-troubleshooting&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wobujidao/wireguard-mtu-troubleshooting&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wobujidao/wireguard-mtu-troubleshooting&type=Date" />
+ </picture>
+</a>
+
 <p align="center">
   <sub>Создано на основе реального кейса диагностики. Москва → Караганда, март 2026.</sub>
 </p>
